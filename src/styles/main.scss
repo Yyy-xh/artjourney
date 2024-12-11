@@ -1,0 +1,23 @@
+@use 'components/Header';
+@use 'components/Footer';
+@use 'components/Gallery';
+@use 'components/VirtualTour';
+@use 'components/Community';
+@use './variables' as *;
+
+
+.header {
+    background-color: $primary-color;
+    // 其他样式
+}
+
+body {
+    margin: 0;
+    font-family: $font-stack;
+    background-color: $primary-color;
+}
+
+main {
+    padding: 20px;
+    padding-bottom: 60px; /* 为固定底部留出空间 */
+}

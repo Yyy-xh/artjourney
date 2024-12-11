@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "星空",
+        "artist": "文森特·梵高",
+        "image": "/assets/images/starry-night.jpg"
+    },
+    {
+        "id": 2,
+        "title": "蒙娜丽莎",
+        "artist": "列奥纳多·达·芬奇",
+        "image": "/assets/images/mona-lisa.jpg"
+    },
+    {
+        "id": 3,
+        "title": "向日葵",
+        "artist": "文森特·梵高",
+        "image": "/assets/images/sunflowers.jpg"
+    },
+    
+    {
+        "id": 4,
+        "title": "瓦",
+        "artist": "张小昊",
+        "image": "/assets/images/瓦.jpg"
+    },
+    {
+        "id": 5,
+        "title": "圣诞快乐",
+        "artist": "XIAOHEI",
+        "image": "/assets/images/TREE.jpg"
+    }
+]
